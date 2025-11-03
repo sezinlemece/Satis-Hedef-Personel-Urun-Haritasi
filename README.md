@@ -32,23 +32,3 @@ Kopyalanan görseller: overview-dashboard-hero.png, sales-overview-2024.png, tar
 ### 5) Products — Sunburst/Tree + Bubble
 <p align="center"<img src="./images/products-tree-bubble.png" width="1000">
 </p>
-
----
-
-## Ham Görsel Linkleri (LinkedIn ilk yorum için)
-Ham link formatı (repo adı ve kullanıcı adınızı değiştirin):
-```
-https://raw.githubusercontent.com/<kullanici>/ai-impact-dashboard-gallery/main/images/overview-dashboard-hero.png
-https://raw.githubusercontent.com/<kullanici>/ai-impact-dashboard-gallery/main/images/sales-overview-2024.png
-https://raw.githubusercontent.com/<kullanici>/ai-impact-dashboard-gallery/main/images/targets-personnel-map.png
-https://raw.githubusercontent.com/<kullanici>/ai-impact-dashboard-gallery/main/images/personnel-leaderboard-gauge.png
-https://raw.githubusercontent.com/<kullanici>/ai-impact-dashboard-gallery/main/images/products-tree-bubble.png
-```
-
-## Notlar
-- Görseller mümkünse 1600px genişlik ve ≤350 KB olacak şekilde optimize edilmelidir.
-- Dosya adları **kebab-case** tutuldu; SEO ve paylaşımda temiz görünür.
-
----
-
-**Oluşturma tarihi:** 2025-11-03
