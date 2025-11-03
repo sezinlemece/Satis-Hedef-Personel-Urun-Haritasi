@@ -9,31 +9,31 @@ Sayfalar: **Genel Bakış, Satışlar, Hedefler, Personel, Ürünler.**
 
 ### 1) Overview — Genel Bakış
 
-<img src="./images/1.png" width="1000">
+<img src="./images/1.PNG" width="1000">
 
 ---
 
 ### 2) Sales — Satışlar
 
-<img src="./images/2.png" width="1000">
+<img src="./images/2.PNG" width="1000">
 
 ---
 
 ### 3) Targets — Hedefler
 
-<img src="./images/3.png" width="1000">
+<img src="./images/3.PNG" width="1000">
 
 ---
 
 ### 4) Personnel — Personel Performansı
 
-<img src="./images/4.png" width="1000">
+<img src="./images/4.PNG" width="1000">
 
 ---
 
 ### 5) Products — Ürünler
 
-<img src="./images/5.png" width="1000">
+<img src="./images/5.PNG" width="1000">
 
 ---
 
